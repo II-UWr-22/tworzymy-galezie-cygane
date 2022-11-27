@@ -1,0 +1,1 @@
+Linux lab110-13.stud.ii 4.13.0-45-generic #50~16.04.1-Ubuntu SMP Wed May 30 11:18:27 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
